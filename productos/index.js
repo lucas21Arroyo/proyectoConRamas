@@ -2,8 +2,8 @@
 const Producto = require('./Product');
 
 module.exports = {
-    /* productos : leerJSON(),
-    listar : require('./listar'),
+     productos : leerJSON(),
+    /*listar : require('./listar'),
     agregar : require('./agregar'),
     filtrar : require('./filtrar'),
     editar : require('./editar'),
