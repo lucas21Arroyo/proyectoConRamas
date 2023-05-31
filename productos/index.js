@@ -1,4 +1,4 @@
-//const {leerJSON,escribirJSON} = require('../data');
+const {leerJSON,escribirJSON} = require('../data');
 const Producto = require('./Product');
 
 module.exports = {
